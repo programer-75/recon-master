@@ -1,0 +1,5 @@
+severity: high,critical
+templates:
+  - cves/
+  - vulnerabilities/
+wordlist: /usr/share/wordlists/dirb/common.txt
