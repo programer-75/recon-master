@@ -30,6 +30,6 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourname/recon-master.git
+git clone https://github.com/programer-75/recon-master.git
 cd recon-master
 chmod +x recon.sh
